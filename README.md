@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api?username=starshrimp&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=starshrimp&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api?username=starshrimp&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=starshrimp&layout=compact&theme=catppuccin_latte&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starshrimp&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starshrimp&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
 <div align="center">
