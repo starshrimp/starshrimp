@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=starshrimp&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api?username=adrianad&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=adrianad&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianad&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</div>
