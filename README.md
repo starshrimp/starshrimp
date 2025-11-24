@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=starshrimp&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api?username=prakash-aryan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-cyan-sigma-86.vercel.app/api/top-langs/?username=prakash-aryan&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starshrimp)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash-aryan&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</div>
